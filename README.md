@@ -20,6 +20,6 @@
 # Server
 https://discord.gg/psxslot
 
-### DO NOT DISTRUBUTE / REPOST, OR SELL MY CODE.
+### DO NOT DISTRUBUTE / REPOST (on  github), OR SELL MY CODE.
 
 ### there is some dupes in this code so beware dm me on discord for help: packski (username)
